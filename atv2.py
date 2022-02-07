@@ -1,5 +1,6 @@
 # lpc-2022
 atividades de LPC
+
 from turtle import *
 
 speed('fastest')
